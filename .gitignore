@@ -1,0 +1,3 @@
+# Project exclude paths
+/master/frontend/build/
+/master/frontend/build/classes/java/main/
